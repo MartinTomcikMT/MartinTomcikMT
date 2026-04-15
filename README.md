@@ -8,7 +8,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 🏠 Independent, reliable, active, flexible, and always learning  
 💡 Projects: [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (terraform), 
 [Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) (terraform),
-[Hello Python World](https://github.com/MartinTomcikMT/hello-python-world) (python)
+[System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
 
 ---
 
