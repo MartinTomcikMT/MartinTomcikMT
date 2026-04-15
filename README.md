@@ -40,37 +40,30 @@ Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (
 * Modular structure
 * Scalable environment setup
 
-🔹 **AWS VPC Setup with Terraform**
-Custom VPC setup including subnets, routing, and security groups.
-
-* Public & private subnets
-* Internet Gateway & NAT
-* Secure network design
-
 ---
 
 ### 🐍 Python
 
-🔹 **Address Book CLI App**
-Simple command-line application to manage contacts.
+🔹 <a href="https://github.com/MartinTomcikMT/python-character-creator ">**Fantasy RPG Character**</a>  
+Simple Python CLI application for creating fantasy characters and storing them in a SQLite database.
 
-* Add / remove / search contacts
-* Data stored locally (JSON/CSV)
-* Clean CLI interface
+Features
+* Enter character name
+* Choose from 5 races
+* Choose from 15 professions
+* Save characters into database
+* Display all created characters
 
-🔹 **Server Monitoring Script**
-Python script for basic infrastructure monitoring.
+Technologies
+* Python
+* SQLite
 
-* Checks CPU, RAM, disk usage
-* Alerts via console/logs
-* Useful for learning DevOps fundamentals
+Future Improvements
+* Delete character
+* Search character
+* Character stats
+* Export to CSV
 
-🔹 **Log Analyzer Tool**
-Script that parses and analyzes log files.
-
-* Detects errors and warnings
-* Generates simple reports
-* Helps understand real-world debugging
 
 ---
 
