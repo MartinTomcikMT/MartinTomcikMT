@@ -5,7 +5,10 @@ I'm on a journey to become a DevOps Master. 🚀
 Currently working in Cloud & Infrastructure, transforming my skills step by step towards DevOps.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
-🏠 Independent, reliable, active, flexible, and always learning
+🏠 Independent, reliable, active, flexible, and always learning  
+💡 Projects: [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (terraform), 
+[Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) (terraform),
+[Hello Python World](https://github.com/MartinTomcikMT/hello-python-world) (python)
 
 ---
 
@@ -33,32 +36,33 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ### ☁️ Terraform
 
-🔹  [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
-Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (VMs, networking, storage).
+⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
+Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
 
-- Phase 1 – Basic Infrastructure Deployment  
+➡️ **Phase 1 – Basic Infrastructure Deployment**  
 Deploy a simple Nginx container using Terraform and Docker provider.  
 Focus on understanding providers, resources, and Terraform workflow (`init`, `apply`, `destroy`).  
-- Phase 2 – Project Structure & Best Practices  
+
+➡️ **Phase 2 – Project Structure & Best Practices**  
 Refactor the project by introducing:
-* variables (`variables.tf`)  
-* outputs (`outputs.tf`)  
-* proper documentation (`README.md`)  
-Goal: make the configuration reusable and more maintainable.
-- Phase 3 – Custom Web Content  
+- variables (`variables.tf`)
+- outputs (`outputs.tf`)
+- proper documentation (`README.md`)  
+
+➡️ **Phase 3 – Custom Web Content**  
 Serve a custom HTML page through the Nginx container.  
 Mount local files into the container to display a personalized webpage.  
--  Phase 4 – Parameterization with tfvars  
+
+➡️ **Phase 4 – Parameterization with tfvars**  
 Introduce `terraform.tfvars` to allow easy customization:
-* container name
-* exposed port
-* Docker image
-Goal: separate configuration from code.
-- Phase 5 – Advanced Terraform Concepts
+- container name
+- exposed port
+- Docker image  
+
+➡️ **Phase 5 – Advanced Terraform Concepts**  
 Enhance the project by:
-* creating reusable modules or
-* deploying multiple containers
-Goal: demonstrate scalable and production-like Terraform usage.
+- creating reusable modules  
+- deploying multiple containers  
 
 ---
 
