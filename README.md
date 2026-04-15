@@ -16,6 +16,8 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -27,9 +29,9 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 
-## 📂 Projects
+## 📂 Projects (NEAR FUTURE)
 
-### ☁️ Terraform Projects
+### ☁️ Terraform
 
 🔹 **Azure Infrastructure Deployment**
 Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (VMs, networking, storage).
@@ -47,7 +49,7 @@ Custom VPC setup including subnets, routing, and security groups.
 
 ---
 
-### 🐍 Python Projects
+### 🐍 Python
 
 🔹 **Address Book CLI App**
 Simple command-line application to manage contacts.
