@@ -33,7 +33,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ### ☁️ Terraform
 
-🔹 [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) **Terraform Docker Infra** - IN PROGRESS  
+🔹 [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (VMs, networking, storage).
 
 * Automated provisioning
