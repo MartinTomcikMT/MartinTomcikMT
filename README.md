@@ -29,16 +29,41 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 
 
-## 📂 Projects (NEAR FUTURE)
+## 📂 Current Projects
 
 ### ☁️ Terraform
 
-🔹 [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
+🔹  [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (VMs, networking, storage).
 
-* Automated provisioning
-* Modular structure
-* Scalable environment setup
+- Phase 1 – Basic Infrastructure Deployment  
+Deploy a simple Nginx container using Terraform and Docker provider.  
+Focus on understanding providers, resources, and Terraform workflow (`init`, `apply`, `destroy`).  
+- Phase 2 – Project Structure & Best Practices  
+Refactor the project by introducing:  
+* variables (`variables.tf`)  
+* outputs (`outputs.tf`)  
+* proper documentation (`README.md`)  
+Goal: make the configuration reusable and more maintainable.  
+- Phase 3 – Custom Web Content  
+Serve a custom HTML page through the Nginx container.  
+Mount local files into the container to display a personalized webpage.  
+-  Phase 4 – Parameterization with tfvars
+Introduce `terraform.tfvars` to allow easy customization:
+* container name
+* exposed port
+* Docker image
+Goal: separate configuration from code.
+- Phase 5 – Advanced Terraform Concepts
+
+Enhance the project by:
+
+* creating reusable modules
+  or
+* deploying multiple containers
+
+Goal: demonstrate scalable and production-like Terraform usage.
+
 
 ---
 
