@@ -6,9 +6,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
-💡 Projects: [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (terraform), 
-[Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) (terraform),
-[System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
+💡 Finished Projects: [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
 
 ---
 
@@ -35,6 +33,32 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 ## 📂 Current Projects
 
 ### ☁️ Terraform
+
+⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
+CLI application for managing contacts and storing them in a structured format.
+
+➡️ **Phase 1 – Core Functionality**  
+Create a basic CLI interface to add, view, and delete contacts.  
+Store data locally using JSON or CSV format.
+
+➡️ **Phase 2 – Data Management & Improvements**  
+Add search functionality and data validation.  
+Refactor code structure and improve usability.
+
+---
+
+⭐ [Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) - IN PROGRESS  
+Python script for generating and managing local files automatically.
+
+➡️ **Phase 1 – File Generation**
+Create and write files with custom content.  
+Work with directories and basic file operations.
+
+➡️ **Phase 2 – Automation & Enhancements**  
+Add dynamic file naming and content generation.
+Implement logging and improve script flexibility.
+
+---
 
 ⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
@@ -71,12 +95,23 @@ Enhance the project by:
 🔹 [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator)  - IN PROGRESS  
 Simple Python CLI application for creating fantasy characters and storing them in a SQLite database.
 
-Features
-* Enter character name
-* Choose from 5 races
-* Choose from 15 professions
-* Save characters into database
-* Display all created characters
+CLI application for creating and managing fantasy characters using Python and SQLite.
+
+➡️ **Phase 1 – Character Creation**  
+Implement user input for character name, race, and profession.  
+Store characters in a SQLite database.
+
+➡️ **Phase 2 – Data Management**  
+Display all created characters.  
+Add search and delete functionality.
+
+➡️ **Phase 3 – Extended Features**  
+Introduce character attributes (e.g. strength, intelligence).  
+Add basic validation and improved CLI interaction.
+
+➡️ **Phase 4 – Advanced Functionality**  
+Export data to CSV.  
+Refactor code and improve overall structure.
 
 Technologies
 * Python
