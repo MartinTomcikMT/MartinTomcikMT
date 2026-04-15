@@ -33,7 +33,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ### ☁️ Terraform
 
-🔹 **Azure Infrastructure Deployment**
+🔹 [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) **Terraform Docker Infra** - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (VMs, networking, storage).
 
 * Automated provisioning
@@ -44,7 +44,7 @@ Infrastructure as Code (IaC) project using Terraform to deploy Azure resources (
 
 ### 🐍 Python
 
-🔹 <a href="https://github.com/MartinTomcikMT/python-character-creator ">**Fantasy RPG Character**</a>  
+🔹 [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator)  - IN PROGRESS  
 Simple Python CLI application for creating fantasy characters and storing them in a SQLite database.
 
 Features
