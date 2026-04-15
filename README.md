@@ -1,6 +1,6 @@
 ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️
 
-I'm on a journey to become a DevOps Master. 🚀
+I'm on a journey to become a DevOps Engineer. 🚀
 
 Currently working in Cloud & Infrastructure, transforming my skills step by step towards DevOps.
 
