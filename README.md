@@ -34,7 +34,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ### ☁️ Terraform
 
-⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
+⭐ [ADDRESS BOOK CREATOR](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
 CLI application for managing contacts and storing them in a structured format.
 
 ➡️ **Phase 1 – Core Functionality**  
@@ -47,20 +47,20 @@ Refactor code structure and improve usability.
 
 ---
 
-⭐ [Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) - IN PROGRESS  
+⭐ [LOCAL FILE GENERATOR](https://github.com/MartinTomcikMT/local-file-generator) - IN PROGRESS  
 Python script for generating and managing local files automatically.
 
-➡️ **Phase 1 – File Generation**
+➡️ **Phase 1 – File Generation**  
 Create and write files with custom content.  
 Work with directories and basic file operations.
 
 ➡️ **Phase 2 – Automation & Enhancements**  
-Add dynamic file naming and content generation.
+Add dynamic file naming and content generation.  
 Implement logging and improve script flexibility.
 
 ---
 
-⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
+⭐ [TERRAFORM DOCKER INFRA](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
 
 ➡️ **Phase 1 – Basic Infrastructure Deployment**  
@@ -92,7 +92,7 @@ Enhance the project by:
 
 ### 🐍 Python
 
-🔹 [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator)  - IN PROGRESS  
+⭐ [FANTASY RPG CHARACTER](https://github.com/MartinTomcikMT/python-character-creator)  - IN PROGRESS  
 Simple Python CLI application for creating fantasy characters and storing them in a SQLite database.
 
 CLI application for creating and managing fantasy characters using Python and SQLite.
@@ -112,16 +112,6 @@ Add basic validation and improved CLI interaction.
 ➡️ **Phase 4 – Advanced Functionality**  
 Export data to CSV.  
 Refactor code and improve overall structure.
-
-Technologies
-* Python
-* SQLite
-
-Future Improvements
-* Delete character
-* Search character
-* Character stats
-* Export to CSV
 
 
 ---
