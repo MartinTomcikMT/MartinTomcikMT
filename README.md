@@ -1,8 +1,8 @@
 <p>
-  <img src="./images/cloud_republic.jpg" width="95%"/>
+  <img src="./images/cloud_republic.png" width="95%"/>
 </p>
 
-## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️
+<!--  ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️ -->
 
 I'm on a journey to become a DevOps Engineer. 🚀
 
