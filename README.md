@@ -1,5 +1,5 @@
 <p>
-  <img src="./images/cloud_republic.png" width="95%"/>
+  <img src="./images/cloud_republic.png" width="1000" height="300"/>
 </p>
 
 <!--  ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️ -->
