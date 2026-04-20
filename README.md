@@ -13,6 +13,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 💡 Finished Projects: [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight)
+
 ---
 
 ## 🛠️ Skills
@@ -36,7 +37,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 ![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
-
+---
 
 ## 📂 Current Projects
 
