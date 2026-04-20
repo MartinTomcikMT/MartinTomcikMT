@@ -1,10 +1,10 @@
-<p>
-  <img src="./images/cloud_republic.png" width="1000" height="300"/>
+<p align="center">
+  <img src="./images/cloud_republic.png" width="90%"/>
 </p>
 
 <!--  ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️ -->
 
-I'm on a journey to become a DevOps Engineer. 🚀
+I'm building my path towards becoming a DevOps Engineer, focusing on cloud technologies, automation, and infrastructure.🚀
 
 Currently working in Cloud & Infrastructure, transforming my skills step by step towards DevOps.
 
@@ -12,15 +12,16 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 🏠 Independent, reliable, active, flexible, and always learning  
 💡 Finished Projects: [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight)
 ---
 
 ## 🛠️ Skills
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-2E3192?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
-![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-2E3192?style=for-the-badge&logo=microsoftazure\&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazonaws\&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops\&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -28,12 +29,12 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ## 📖 Learning
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-006600?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-663399?style=for-the-badge\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/git-DEEB52?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-179287?style=for-the-badge&logo=github&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-006600?style=for-the-badge&logo=kubernetes\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-663399?style=for-the-badge&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-121011?style=for-the-badge&logo=github&logoColor=white)
 
 
 
@@ -100,8 +101,6 @@ Enhance the project by:
 ### 🐍 Python
 
 ⭐ [FANTASY RPG CHARACTER](https://github.com/MartinTomcikMT/python-character-creator)  - IN PROGRESS  
-Simple Python CLI application for creating fantasy characters and storing them in a SQLite database.
-
 CLI application for creating and managing fantasy characters using Python and SQLite.
 
 ➡️ **Phase 1 – Character Creation**  
