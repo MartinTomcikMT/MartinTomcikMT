@@ -80,29 +80,6 @@ Enhance the project by:
 
 ---
 
-### 🐍 Python
-
-⭐ [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator) - IN PROGRESS  
-Simple Python CLI application for creating and managing fantasy characters using Python and SQLite.
-
-➡️ **Phase 1 – Character Creation**  
-Implement user input for character name, race, and profession.  
-Store characters in a SQLite database.
-
-➡️ **Phase 2 – Data Management**  
-Display all created characters.  
-Add search and delete functionality.
-
-➡️ **Phase 3 – Extended Features**  
-Introduce character attributes (e.g. strength, intelligence).  
-Add basic validation and improved CLI interaction.
-
-➡️ **Phase 4 – Advanced Functionality**  
-Export data to CSV.  
-Refactor code and improve overall structure.
-
----
-
 ⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
 CLI application for managing contacts and storing them in a structured format.
 
@@ -126,5 +103,26 @@ Work with directories and basic file operations.
 ➡️ **Phase 2 – Automation & Enhancements**  
 Add dynamic file naming and content generation.  
 Implement logging and improve script flexibility.
+
+### 🐍 Python
+
+⭐ [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator) - IN PROGRESS  
+Simple Python CLI application for creating and managing fantasy characters using Python and SQLite.
+
+➡️ **Phase 1 – Character Creation**  
+Implement user input for character name, race, and profession.  
+Store characters in a SQLite database.
+
+➡️ **Phase 2 – Data Management**  
+Display all created characters.  
+Add search and delete functionality.
+
+➡️ **Phase 3 – Extended Features**  
+Introduce character attributes (e.g. strength, intelligence).  
+Add basic validation and improved CLI interaction.
+
+➡️ **Phase 4 – Advanced Functionality**  
+Export data to CSV.  
+Refactor code and improve overall structure.
 
 
