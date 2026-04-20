@@ -1,3 +1,5 @@
+![Output](./images/cloud_republic.jpg)
+
 ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️
 
 I'm on a journey to become a DevOps Engineer. 🚀
