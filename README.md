@@ -1,4 +1,6 @@
-![Output](./images/cloud_republic.jpg)
+<p>
+  <img src="./images/cloud_republic.jpg" width="95%"/>
+</p>
 
 ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️
 
