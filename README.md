@@ -83,7 +83,7 @@ Enhance the project by:
 ⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
 CLI application for managing contacts and storing them in a structured format.
 
-➡️ **Phase 1 – Core Functionality**  
+➡️ **Phase 1 – Core Functionality**  - FINISHED
 Create a basic CLI interface to add, view, and delete contacts.  
 Store data locally using JSON or CSV format.
 
