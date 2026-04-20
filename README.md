@@ -12,7 +12,14 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 🏠 Independent, reliable, active, flexible, and always learning  
 💡 Finished Projects: [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=MartinTomcikMT) 
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MartinTomcikMT&query=$.public_repos&label=repositories&style=flat)
+![Followers](https://img.shields.io/github/followers/MartinTomcikMT?style=flat)
+![Following](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MartinTomcikMT&query=$.following&label=following&style=flat)
 
 ---
 
@@ -43,66 +50,40 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ### ☁️ Terraform
 
-⭐ [ADDRESS BOOK CREATOR](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
-CLI application for managing contacts and storing them in a structured format.
-
-➡️ **Phase 1 – Core Functionality**  
-Create a basic CLI interface to add, view, and delete contacts.  
-Store data locally using JSON or CSV format.
-
-➡️ **Phase 2 – Data Management & Improvements**  
-Add search functionality and data validation.  
-Refactor code structure and improve usability.
-
----
-
-⭐ [LOCAL FILE GENERATOR](https://github.com/MartinTomcikMT/local-file-generator) - IN PROGRESS  
-Python script for generating and managing local files automatically.
-
-➡️ **Phase 1 – File Generation**  
-Create and write files with custom content.  
-Work with directories and basic file operations.
-
-➡️ **Phase 2 – Automation & Enhancements**  
-Add dynamic file naming and content generation.  
-Implement logging and improve script flexibility.
-
----
-
-⭐ [TERRAFORM DOCKER INFRA](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
+⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
 
 ➡️ **Phase 1 – Basic Infrastructure Deployment**  
 Deploy a simple Nginx container using Terraform and Docker provider.  
-Focus on understanding providers, resources, and Terraform workflow (`init`, `apply`, `destroy`).  
+Focus on understanding providers, resources, and Terraform workflow (`init`, `apply`, `destroy`).
 
 ➡️ **Phase 2 – Project Structure & Best Practices**  
 Refactor the project by introducing:
 - variables (`variables.tf`)
 - outputs (`outputs.tf`)
-- proper documentation (`README.md`)  
+- proper documentation (`README.md`)
 
 ➡️ **Phase 3 – Custom Web Content**  
 Serve a custom HTML page through the Nginx container.  
-Mount local files into the container to display a personalized webpage.  
+Mount local files into the container to display a personalized webpage.
 
 ➡️ **Phase 4 – Parameterization with tfvars**  
 Introduce `terraform.tfvars` to allow easy customization:
 - container name
 - exposed port
-- Docker image  
+- Docker image
 
 ➡️ **Phase 5 – Advanced Terraform Concepts**  
 Enhance the project by:
-- creating reusable modules  
-- deploying multiple containers  
+- creating reusable modules
+- deploying multiple containers
 
 ---
 
 ### 🐍 Python
 
-⭐ [FANTASY RPG CHARACTER](https://github.com/MartinTomcikMT/python-character-creator)  - IN PROGRESS  
-CLI application for creating and managing fantasy characters using Python and SQLite.
+⭐ [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator) - IN PROGRESS  
+Simple Python CLI application for creating and managing fantasy characters using Python and SQLite.
 
 ➡️ **Phase 1 – Character Creation**  
 Implement user input for character name, race, and profession.  
@@ -120,8 +101,30 @@ Add basic validation and improved CLI interaction.
 Export data to CSV.  
 Refactor code and improve overall structure.
 
+---
+
+⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
+CLI application for managing contacts and storing them in a structured format.
+
+➡️ **Phase 1 – Core Functionality**  
+Create a basic CLI interface to add, view, and delete contacts.  
+Store data locally using JSON or CSV format.
+
+➡️ **Phase 2 – Data Management & Improvements**  
+Add search functionality and data validation.  
+Refactor code structure and improve usability.
 
 ---
 
+⭐ [Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) - IN PROGRESS  
+Python script for generating and managing local files automatically.
+
+➡️ **Phase 1 – File Generation**  
+Create and write files with custom content.  
+Work with directories and basic file operations.
+
+➡️ **Phase 2 – Automation & Enhancements**  
+Add dynamic file naming and content generation.  
+Implement logging and improve script flexibility.
 
 
