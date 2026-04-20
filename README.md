@@ -12,7 +12,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ## 🛠️ Skills
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-2E3192?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge\&logo=azuredevops\&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
@@ -26,8 +26,11 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge\&logo=terraform\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-006600?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-663399?style=for-the-badge\&logo=python\&logoColor=white)
+![Git](https://img.shields.io/badge/git-DEEB52?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-179287?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ## 📂 Current Projects
