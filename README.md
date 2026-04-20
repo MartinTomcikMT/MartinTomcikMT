@@ -1,4 +1,4 @@
-![Output](./images/cloud_r2epublic.jpg)
+![Output](./images/cloud_republic.jpg)
 
 ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️
 
