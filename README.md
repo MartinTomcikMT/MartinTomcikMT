@@ -12,7 +12,7 @@ Sharing real projects and continuous learning through this GitHub.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
-💡 Finished Projects: [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
+💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
 
@@ -53,7 +53,7 @@ Sharing real projects and continuous learning through this GitHub.
 
 ---
 
-## 📂 Current Projects
+## 📂 Projects in progress
 
 ### ☁️ Terraform
 
