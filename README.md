@@ -4,9 +4,11 @@
 
 <!--  ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️ -->
 
-I'm building my path towards becoming a DevOps Engineer, focusing on cloud technologies, automation, and infrastructure.🚀
+Cloud & Infrastructure Engineer with 15+ years in enterprise IT. Experience in Azure, AWS, monitoring, incident handling, and CI/CD operations.
 
-Currently working in Cloud & Infrastructure, transforming my skills step by step towards DevOps.
+Currently transitioning into DevOps — building practical skills in Terraform, Python, Docker, and Kubernetes.
+
+Sharing real projects and continuous learning through this GitHub.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
@@ -40,7 +42,7 @@ Currently working in Cloud & Infrastructure, transforming my skills step by step
 
 ---
 
-## 📖 Learning
+## 📖 Currently Building With
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
