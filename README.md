@@ -12,7 +12,7 @@ Sharing real projects and continuous learning through this GitHub.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
-💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python)
+💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
 
@@ -105,13 +105,7 @@ Implement logging and improve script flexibility.
 ⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
 CLI application for managing contacts and storing them in a structured format.
 
-➡️ **Phase 1 – Core Functionality**  - FINISHED  
-Create a basic CLI interface to add, view, and delete contacts.  
-Store data locally using JSON or CSV format.
 
-➡️ **Phase 2 – Data Management & Improvements**  
-Add search functionality and data validation.  
-Refactor code structure and improve usability.
 
 ---
 
