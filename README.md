@@ -102,13 +102,6 @@ Implement logging and improve script flexibility.
 
 ### 🐍 Python
 
-⭐ [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) - IN PROGRESS  
-CLI application for managing contacts and storing them in a structured format.
-
-
-
----
-
 ⭐ [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator) - IN PROGRESS  
 Simple Python CLI application for creating and managing fantasy characters using Python and SQLite.
 
