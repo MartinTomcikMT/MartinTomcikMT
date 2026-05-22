@@ -87,38 +87,25 @@ Enhance the project by:
 
 ---
 
-⭐ [Local File Generator](https://github.com/MartinTomcikMT/local-file-generator) - IN PROGRESS  
-Python script for generating and managing local files automatically.
-
-➡️ **Phase 1 – File Generation**  
-Create and write files with custom content.  
-Work with directories and basic file operations.
-
-➡️ **Phase 2 – Automation & Enhancements**  
-Add dynamic file naming and content generation.  
-Implement logging and improve script flexibility.
-
----
-
 ### 🐍 Python
 
-⭐ [Fantasy RPG Character](https://github.com/MartinTomcikMT/python-character-creator) - IN PROGRESS  
-Simple Python CLI application for creating and managing fantasy characters using Python and SQLite.
+[Python Learning Library](https://github.com/MartinTomcikMT/python-learning-library) - IN PROGRESS  
+A structured Python learning repository where I organize my scripts by difficulty level — from fundamentals and beginner CLI scripts to system-focused automation and future advanced DevOps-related tooling.
 
-➡️ **Phase 1 – Character Creation**  
-Implement user input for character name, race, and profession.  
-Store characters in a SQLite database.
+➡️ **Fundamentals**  
+Core syntax practice: variables, data types, conditions, loops, functions, lists, dictionaries, and input/output.
 
-➡️ **Phase 2 – Data Management**  
-Display all created characters.  
-Add search and delete functionality.
+➡️ **Basic Scripts**  
+Small beginner projects such as number guessing, dice rolling, calculators, file generators, and simple CLI tools.
 
-➡️ **Phase 3 – Extended Features**  
-Introduce character attributes (e.g. strength, intelligence).  
-Add basic validation and improved CLI interaction.
+➡️ **System-Focused Scripts**  
+Practical scripts related to system information, files, folders, logs, and basic automation tasks.
 
-➡️ **Phase 4 – Advanced Functionality**  
-Export data to CSV.  
-Refactor code and improve overall structure.
+➡️ **Intermediate**  
+Modules, packages, reusable functions, error handling, file handling, JSON/CSV, and cleaner project structure.
 
+➡️ **Advanced**  
+APIs, databases, object-oriented programming, testing, logging, and more complex CLI applications.
 
+➡️ **Expert / Future Goals**  
+Cloud, Infrastructure, and DevOps-oriented Python automation scripts.
