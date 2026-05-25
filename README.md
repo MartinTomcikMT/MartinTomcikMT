@@ -12,7 +12,7 @@ Sharing real projects and continuous learning through this GitHub.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
-💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Cloud Devops Knowledge Base](https://github.com/MartinTomcikMT/cloud-devops-knowledge-base) (html, javascript), [Terraform Docker Infra - Phase3 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform)
+💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Cloud Devops Knowledge Base](https://github.com/MartinTomcikMT/cloud-devops-knowledge-base) (html, javascript), [Terraform Docker Infra - Phase4 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
 
@@ -59,12 +59,6 @@ Sharing real projects and continuous learning through this GitHub.
 
 ⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
-
-➡️ **Phase 4 – Parameterization with tfvars**  
-Introduce `terraform.tfvars` to allow easy customization:
-- container name
-- exposed port
-- Docker image
 
 ➡️ **Phase 5 – Advanced Terraform Concepts**  
 Enhance the project by:
