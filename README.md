@@ -12,7 +12,7 @@ Sharing real projects and continuous learning through this GitHub.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
-💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Terraform Docker Infra - Phase1 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform)
+💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Terraform Docker Infra - Phase2 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
 
@@ -59,12 +59,6 @@ Sharing real projects and continuous learning through this GitHub.
 
 ⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
-
-➡️ **Phase 2 – Project Structure & Best Practices**  
-Refactor the project by introducing:
-- variables (`variables.tf`)
-- outputs (`outputs.tf`)
-- proper documentation (`README.md`)
 
 ➡️ **Phase 3 – Custom Web Content**  
 Serve a custom HTML page through the Nginx container.  
