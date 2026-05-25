@@ -4,7 +4,7 @@
 
 <!--  ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️ -->
 
-Cloud & Infrastructure Engineer with 18+ years in enterprise IT. Experience in Azure, AWS, monitoring, incident handling, and CI/CD operations.
+Cloud & Infrastructure Engineer with 18+ years in enterprise IT environments. Experience in Azure, AWS, monitoring, incident handling, and CI/CD operations.
 
 Currently transitioning into DevOps — building practical skills in Terraform, Python, Docker, and Kubernetes.
 
