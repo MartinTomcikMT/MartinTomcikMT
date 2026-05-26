@@ -82,6 +82,27 @@ Add a CI workflow to run Terraform formatting and validation checks automaticall
 
 ---
 
+[AWS EC2 Nginx Deployment with Terraform](https://github.com/MartinTomcikMT/terraform-aws-ec2-nginx) - IN PROGRESS
+
+Terraform-based AWS project for deploying an EC2 instance with an Nginx web server.
+
+➡️ **Phase 1 – Create EC2 Instance**  
+Provision a basic EC2 instance using Terraform and practice the core Terraform workflow.
+
+➡️ **Phase 2 – Configure Security Group**  
+Create networking rules for SSH and HTTP access using an AWS Security Group.
+
+➡️ **Phase 3 – Install Nginx with User Data**  
+Install and start Nginx automatically during EC2 launch using user data.
+
+➡️ **Phase 4 – Add Variables and Outputs**  
+Introduce variables, outputs, and `terraform.tfvars.example` to make the project configurable and easier to reuse.
+
+➡️ **Phase 5 – Add GitHub Actions Terraform Validation**  
+Add a CI workflow to run Terraform formatting and validation checks automatically.
+
+---
+
 ### 🐍 Python
 
 [Python Learning Library](https://github.com/MartinTomcikMT/python-learning-library) - IN PROGRESS  
