@@ -106,6 +106,7 @@ Add a CI workflow to run Terraform formatting and validation checks automaticall
 ### 🐍 Python
 
 [Python Learning Library](https://github.com/MartinTomcikMT/python-learning-library) - IN PROGRESS  
+
 A structured Python learning repository where I organize my scripts by difficulty level — from fundamentals and beginner CLI scripts to system-focused automation and future advanced DevOps-related tooling.
 
 ➡️ **Fundamentals**  
@@ -125,3 +126,39 @@ APIs, databases, object-oriented programming, testing, logging, and more complex
 
 ➡️ **Expert / Future Goals**  
 Cloud, Infrastructure, and DevOps-oriented Python automation scripts.
+
+---
+
+[Log File Analyzer](https://github.com/MartinTomcikMT/python-log-file-analyzer) - IN PROGRESS  
+
+Python CLI tool for reading, analyzing, and summarizing log files. The goal of this project is to practice file handling, text processing, filtering, reporting, and basic troubleshooting scenarios similar to real infrastructure or DevOps work.
+
+➡️ **Phase 1 – Read Log File**  
+Load a log file and read its content line by line. Focus on file handling and working with raw text data.
+
+➡️ **Phase 2 – Analyze Log Levels**  
+Count occurrences of common log levels such as `ERROR`, `WARNING`, `INFO`, and `DEBUG`. Focus on string matching, counters, and basic log analysis.
+
+➡️ **Phase 3 – Search, Filter, and Export Report**  
+Allow the user to search logs by keyword or filter entries by log level. Generate a summary report and export results to TXT, CSV, or JSON.
+
+---
+
+[Python Config Generator](https://github.com/MartinTomcikMT/python-config-generator) - IN PROGRESS  
+
+Python CLI tool for generating simple configuration files from user input. The goal of this project is to practice input validation, structured data, JSON/YAML file generation, and basic automation patterns useful for DevOps and infrastructure workflows.
+
+➡️ **Phase 1 – Collect Configuration Values**  
+Ask the user for basic project configuration values such as project name, environment, region, owner, and port. Focus on user input and storing values in a structured way.
+
+➡️ **Phase 2 – Generate JSON Config**  
+Save the entered values into a valid JSON configuration file. Focus on dictionaries, file writing, and structured output.
+
+➡️ **Phase 3 – Add Validation and Error Handling**  
+Validate required fields, numeric values, and empty inputs. Focus on making the script more reliable and user-friendly.
+
+➡️ **Phase 4 – Add YAML Output**  
+Add an option to generate configuration in YAML format. Focus on supporting a common configuration format used in DevOps tools.
+
+➡️ **Phase 5 – Add Template-Based Generation**  
+Generate configuration files from simple templates. Focus on making the tool more flexible for different automation use cases.
