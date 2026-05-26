@@ -53,13 +53,32 @@ Infrastructure and Cloud Engineer with 18+ years of enterprise IT experience, no
 
 ### ☁️ Terraform
 
-⭐ [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
+[Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) - IN PROGRESS  
 Infrastructure as Code (IaC) project using Terraform to provision and manage a local Docker container.
 
 ➡️ **Phase 5 – Advanced Terraform Concepts**  
-Enhance the project by:
-- creating reusable modules
-- deploying multiple containers
+Creating reusable modules and deploying multiple containers
+
+---
+
+[AWS S3 Static Website](https://github.com/MartinTomcikMT/terraform-aws-s3-static-website) - IN PROGRESS  
+
+Terraform-based AWS project for deploying a static website on Amazon S3.
+
+➡️ **Phase 1 – Create S3 Bucket**  
+Provision a basic S3 bucket using Terraform and practice the core Terraform workflow.
+
+➡️ **Phase 2 – Enable Static Website Hosting**  
+Configure the bucket to serve static web content through the S3 website endpoint.
+
+➡️ **Phase 3 – Create and Upload Custom index.html**  
+Upload a custom `index.html` file to the bucket and verify the website in a browser.
+
+➡️ **Phase 4 – Add Variables and Outputs**  
+Introduce variables, outputs, and `terraform.tfvars.example` to make the project configurable and reusable.
+
+➡️ **Phase 5 – Add GitHub Actions Terraform Validation**  
+Add a CI workflow to run Terraform formatting and validation checks automatically.
 
 ---
 
