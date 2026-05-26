@@ -82,6 +82,27 @@ Add a CI workflow to run Terraform formatting and validation checks automaticall
 
 ---
 
+[Azure Static Website](https://github.com/MartinTomcikMT/terraform-azure-static-website) - IN PROGRESS
+
+Infrastructure as Code project using Terraform to provision and manage a static website hosted on Azure Storage.
+
+➡️ **Phase 1 – Create Resource Group and Storage Account**  
+Create the basic Azure resources needed for static website hosting.
+
+➡️ **Phase 2 – Enable Static Website Hosting**  
+Configure the Storage Account to serve static web content.
+
+➡️ **Phase 3 – Upload Custom index.html**  
+Upload a custom HTML page and verify the website in a browser.
+
+➡️ **Phase 4 – Add Variables and Outputs**  
+Make resource names, location, and website settings configurable.
+
+➡️ **Phase 5 – Add GitHub Actions Validation**  
+Add CI checks for Terraform formatting and validation.
+
+---
+
 [AWS EC2 Nginx Deployment with Terraform](https://github.com/MartinTomcikMT/terraform-aws-ec2-nginx) - IN PROGRESS
 
 Terraform-based AWS project for deploying an EC2 instance with an Nginx web server.
