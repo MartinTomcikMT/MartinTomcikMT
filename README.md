@@ -4,11 +4,7 @@
 
 <!--  ## ☁️☁️☁️ Welcome to The Cloud Republic! ☁️☁️☁️ -->
 
-Cloud & Infrastructure Engineer with 18+ years in enterprise IT environments. Experience in Azure, AWS, monitoring, incident handling, and CI/CD operations.
-
-Currently transitioning into DevOps — building practical skills in Terraform, Python, Docker, and Kubernetes.
-
-Sharing real projects and continuous learning through this GitHub.
+Infrastructure and Cloud Engineer with 18+ years of enterprise IT experience, now building production-oriented DevOps projects with Terraform, AWS, Docker, Kubernetes, monitoring, and automation. Sharing real projects and continuous learning through this GitHub.
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
