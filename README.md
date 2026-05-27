@@ -6,9 +6,21 @@
 
 Infrastructure and Cloud Engineer with 18+ years of enterprise IT experience, now building production-oriented DevOps projects with Terraform, AWS, Docker, Kubernetes, monitoring, and automation. Sharing real projects and continuous learning through this GitHub.
 
-🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
-🏠 Independent, reliable, active, flexible, and always learning  
-💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Cloud Devops Knowledge Base](https://github.com/MartinTomcikMT/cloud-devops-knowledge-base) (html, javascript), [Terraform Docker Infra - Phase4 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform), [Terraform  Azure Course Project - Phase6 ](https://github.com/MartinTomcikMT/terraform-azure-course)) (terraform)
+🖥️ Cloud and Infrastructure specialist with Azure/AWS, enterprise IT, monitoring and deployment experience  
+🏠 Experienced in remote work, ownership, troubleshooting, and independent delivery  
+⚙️ Building hands-on DevOps portfolio projects with Terraform, cloud platforms, CI/CD, and Python automation
+
+---
+
+💡 **Completed / Usable Projects**
+
+| Project | Technology | Status | What it demonstrates |
+|---|---|---|---|
+| [Terraform Azure Course Project](https://github.com/MartinTomcikMT/terraform-azure-course) | Terraform, Azure | Phase 6 completed | Azure Resource Group, VNet, variables, workspaces, and safe destroy workflow |
+| [Cloud DevOps Knowledge Base](https://github.com/MartinTomcikMT/cloud-devops-knowledge-base) | HTML, CSS, JavaScript | Completed | Single-page knowledge base for Cloud/DevOps interview preparation |
+| [Terraform Docker Infra](https://github.com/MartinTomcikMT/terraform-docker-infra) | Terraform, Docker | Phase 4 completed | Docker infrastructure provisioning with Terraform |
+| [System Info Script](https://github.com/MartinTomcikMT/system-info-script) | Python | Completed | Basic Python scripting, system information collection, command-line output |
+| [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) | Python | Completed | CLI application, contact management, JSON/local data storage |
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
 
