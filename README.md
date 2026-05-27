@@ -8,7 +8,7 @@ Infrastructure and Cloud Engineer with 18+ years of enterprise IT experience, no
 
 🖥️ Cloud and Infrastructure specialist (Azure, AWS, GCP)  
 🏠 Independent, reliable, active, flexible, and always learning  
-💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Cloud Devops Knowledge Base](https://github.com/MartinTomcikMT/cloud-devops-knowledge-base) (html, javascript), [Terraform Docker Infra - Phase4 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform)
+💡 **Finished Projects:** [System Info Script](https://github.com/MartinTomcikMT/system-info-script) (python) , [Address Book Creator](https://github.com/MartinTomcikMT/address-book-creator) (python), [Cloud Devops Knowledge Base](https://github.com/MartinTomcikMT/cloud-devops-knowledge-base) (html, javascript), [Terraform Docker Infra - Phase4 ](https://github.com/MartinTomcikMT/terraform-docker-infra) (terraform), [Terraform  Azure Course Project - Phase6 ](https://github.com/MartinTomcikMT/terraform-azure-course)) (terraform)
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinTomcikMT&show_icons=true&theme=tokyonight) -->
 
@@ -58,6 +58,38 @@ Infrastructure as Code (IaC) project using Terraform to provision and manage a l
 
 ➡️ **Phase 5 – Advanced Terraform Concepts**  
 Creating reusable modules and deploying multiple containers
+
+---
+
+[Terraform Azure Course Project](https://github.com/MartinTomcikMT/terraform-azure-course) - IN PROGRESS  
+Terraform-based Azure project for learning Infrastructure as Code by provisioning and managing core Azure resources.
+
+➡️ Phase 7 – Remote State with Azure Blob Storage  
+Configure an Azure Storage Account and Blob Container to store Terraform state remotely. Prepare the project for safer collaboration and CI/CD usage.
+
+➡️ Phase 8 – State Locking and Versioning  
+Enable backend state locking and storage versioning to protect the Terraform state from conflicts and accidental loss.
+
+➡️ Phase 9 – Terraform Modules  
+Refactor the project into reusable modules, starting with networking and compute infrastructure. Use module inputs and outputs to keep the root configuration clean.
+
+➡️ Phase 10 – Azure Compute Infrastructure  
+Define and provision Azure compute resources such as network interfaces and virtual machines using variables, count, and workspace-based configuration.
+
+➡️ Phase 11 – Additional Azure Modules  
+Create reusable modules for Azure SQL Database and Azure Web App infrastructure as practice for real-world modular Terraform design.
+
+➡️ Phase 12 – CI/CD with Azure DevOps  
+Build Azure DevOps pipelines for Terraform validation, planning, and deployment. Use service principals, variable groups, environments, and approval gates.
+
+➡️ Phase 13 – Automated Multi-Environment Deployment  
+Automate Terraform deployments for development, staging, and production environments using CI/CD workflows.
+
+➡️ Phase 14 – Cleanup and Destroy Workflow  
+Practice safely destroying Terraform-managed resources locally and through CI/CD while understanding what Terraform does and does not manage.
+
+➡️ Phase 15 – Portfolio Documentation  
+Document the project structure, Terraform commands, lessons learned, screenshots, and progress checkpoints for GitHub portfolio presentation.
 
 ---
 
